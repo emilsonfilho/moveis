@@ -1,4 +1,4 @@
-let banners = ['Os melhores do Brasil', 'Qualidade e preço baixo!']
+let banners = ['Do lixo ao luxo!', 'Vamos é reaproveitar!']
 let bannerAtual = 0
 
 function trocaBanner() {
